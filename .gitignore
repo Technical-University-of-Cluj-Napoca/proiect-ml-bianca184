@@ -1,0 +1,33 @@
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.suo
+*.vspscc
+
+
+CopilotIndices/
+.github/copilot-instructions.md
+
+
+bin/
+obj/
+
+
+.DS_Store
+Thumbs.db
+
+# PyCharm
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Machine Learning Logs
+catboost_info/
+
+# Python
+__pycache__/
+*.pyc
